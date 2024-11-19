@@ -13,11 +13,11 @@
 
 #print("A mensalidade de %+10s é %2.2f kwanzas"%(curso,mensalidade))
 
-
+'''
 num1 = int (input("Digite um número: "))
 num2 = int (input("Digite um número: "))
 
-print(f'A divsão de {num1} por {num2} é: {num1*num2}')
+print(f'A divsão de {num1} por {num2} é: {num1*num2}') '''
 
 #"Crie 3 variaveis com 3 tipos de dados diferente"
 
@@ -25,7 +25,6 @@ print(f'A divsão de {num1} por {num2} é: {num1*num2}')
 #AnO = 2024
 #valor = 19.99
 
-"Cria um comentário de mas d uma linha"
 #Exemplo de um comentário simples, de até uma linha"
 
 
@@ -37,7 +36,7 @@ asasasasa
 
 
 "4"
-print("Olá Mundo")
+#print("Olá Mundo")
 
 "5"
 
@@ -113,3 +112,37 @@ num2 = 106
 print(num1 * num2)
 print(num1 / num2)
 '''
+
+'''num1 = 1233
+
+print (num1)'''
+
+'''
+num1 = int (input("Digite o primeiro número: "))
+num2 = int (input("Digite o segundo número: "))
+
+print(f'A Soma de {num1} com {num1} é: {num1 + num2}')
+print(f'A Subtração de {num1} com {num1} é: {num1 - num2}')
+print(f'A multiplicação de {num1} com {num1} é: {num1 * num2}')
+print(f'A divisão de {num1} por {num1} é: {num1 / num2}') '''
+
+'''num1 = 100
+num2 = 89
+
+print(num1  num2)'''
+
+'''num1 = 100
+num2 = 89
+
+print(num1 == num2)'''
+
+'''num1 = 100
+num2 = 89
+
+print(num1 != num2)'''
+
+'''num1 = 100
+num2 = 89
+
+print(num1 <= num2)'''
+
