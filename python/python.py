@@ -146,3 +146,60 @@ num2 = 89
 
 print(num1 <= num2)'''
 
+
+'''numero = int (input("Digite um número entre 1 e 12: "))
+
+
+if (numero == 1):
+    print('Janeiro')
+elif(numero == 2):
+    print('Feveiro')
+elif(numero == 3):
+    print('Março')
+elif(numero == 4):
+    print('Abril')
+elif(numero == 5):
+    print('Maio')
+elif(numero == 6):
+    print('Junho')
+elif(numero == 7):
+    print('Julho')
+elif(numero == 8):
+    print('Agosto')
+elif(numero == 9):
+    print('Setembro')
+elif(numero == 10):
+    print('Outubro')
+elif(numero == 11):
+    print('Novembro')
+elif(numero == 12):
+    print('Dezembro')
+else:
+    print('Não existe um mês correspondente ao  número digitado')
+'''
+
+
+'''num1 = float(input('Digite um número: '))
+num2 = float(input('Digite um número: '))
+operacao = int(input('Digite a operação a ser realizada: '))
+
+
+if operacao >=1 & operacao <= 4:
+    if operacao == 1:
+        print(num1 ,' + ', num2, ' = ', num1 + num2)
+    elif operacao == 2:
+        print(num1 ,' - ', num2, ' = ', num1 - num2)
+    elif operacao == 3:
+        print(num1 ,' * ', num2, ' = ', num1 * num2)
+    elif operacao == 4:
+        print(num1 ,' / ', num2, ' = ', num1 / num2)
+else:
+    print('Só podem ser digitados valores de 1 a 4')
+
+'''
+i = 1
+
+i = int (i)
+while i <= 10:
+    print (i, '\n')
+    i = i + 1
